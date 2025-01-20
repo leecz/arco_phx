@@ -1,4 +1,4 @@
-defmodule ArcoPhx.MixProject do
+defmodule ArcoPHX.MixProject do
   use Mix.Project
 
   def project do

@@ -1,6 +1,6 @@
-defmodule ArcoPhx do
+defmodule ArcoPHX do
   @moduledoc """
-  Documentation for `ArcoPhx`.
+  Documentation for `ArcoPHX`.
   """
 
   @doc """
@@ -8,7 +8,7 @@ defmodule ArcoPhx do
 
   ## Examples
 
-      iex> ArcoPhx.hello()
+      iex> ArcoPHX.hello()
       :world
 
   """

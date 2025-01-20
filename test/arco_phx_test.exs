@@ -1,8 +1,8 @@
-defmodule ArcoPhxTest do
+defmodule ArcoPHXTest do
   use ExUnit.Case
-  doctest ArcoPhx
+  doctest ArcoPHX
 
   test "greets the world" do
-    assert ArcoPhx.hello() == :world
+    assert ArcoPHX.hello() == :world
   end
 end
