@@ -24,14 +24,15 @@ defmodule ArcoPHX.MixProject do
     [
       maintainers: ["LiChengzhi"],
       licenses: ["MIT"],
-      links: %{"GitHub" => "https://github.com/leecz/arco_phx"},
+      links: %{"GitHub" => "https://github.com/leecz/arco-phx"},
       files: ~w(lib assets/*.css priv .formatter.exs mix.exs README*)
     ]
   end
 
   defp description do
-    "Phoenix UI components library inspired by Arco Design"
+    "A Phoenix UI Library based on Arco Design"
   end
+
 
   # Run "mix help deps" to learn about dependencies.
   defp deps do
